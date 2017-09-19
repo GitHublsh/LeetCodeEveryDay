@@ -1,4 +1,4 @@
- //爬楼梯，只有爬一步和两步，爬上某一高度可以有多少种方式
+ //计算爬楼梯的步数方式，只有爬一步和两步，爬上某一高度可以有多少种方式
     public static int climbStairs(int n) {
         int one = 1;
         int two = 2;
