@@ -1,4 +1,4 @@
-//实现sqrt,计算x的平方根
+//实现sqrt,计算x的平方根（int型不能计算出准确的值）
     public static int mySqrt(int x) {
         float min = 0;
         float max = x;
